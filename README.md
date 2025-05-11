@@ -1,7 +1,7 @@
 <img src="https://github.com/joaoofontenelle/joaoofontenelle/blob/main/assets/wallpaper.jpeg?raw=true" style="max-width:100%; border-radius:12px;" />
 
 <h1 align="center" style="font-family:Verdana, sans-serif; font-weight:bold; color:#000000;">
-  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 👋
+  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 
 </h1>
 
 <p align="center">
