@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim
 
 - 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>  
-- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML5</kbd> & <kbd>CSS3</kbd>  
+- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML5</kbd>, <kbd>CSS3</kbd> e <kbd>SQL</kbd> 
 - 🎯 Objetivo: evoluir como desenvolvedor e conquistar projetos pessoais incríveis  
 - 🌐 Portfólio: <i>em construção...</i>  
 
