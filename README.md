@@ -22,19 +22,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
+      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=radical&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=joaoofontenelle&theme=github-dark&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=github_dark&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
+      <img src="https://streak-stats.demolab.com/?user=joaoofontenelle&theme=radical&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
     </td>
   </tr>
 </table>
 
+</div>
+
+<div align="center" style="margin-top: 16px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=radical&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
 </div>
 
 ---
@@ -43,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=github-dark&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=radical&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
 
 </div>
 
@@ -53,7 +52,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/jooaofontenelle/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram de João Fontenelle" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram de João Fontenelle" style="filter: grayscale(100%);" />
   </a>
 </p>
 
