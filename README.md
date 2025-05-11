@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 <strong>Conecte-se comigo</strong>
+### 🌐 <strong>Conecte-se comigo!</strong>
 
 <p align="center">
   <a href="https://www.instagram.com/jooaofontenelle/" target="_blank" rel="noreferrer">
@@ -62,6 +62,15 @@
 
 ---
 
+### 🖋️ <strong>Assinatura</strong>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=100&section=footer"/>
+  <i>"Transformando lógica em soluções. Um código por vez."</i> 🧠
+</p>
+
+---
+
+<!-- Divisor SVG animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 </p>
