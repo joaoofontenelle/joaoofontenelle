@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=joaoofontenelle&theme=react-dark&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=dark&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
 
 </div>
 
