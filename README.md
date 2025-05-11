@@ -62,8 +62,6 @@
 
 ---
 
-### 🖋️ <strong>Assinatura</strong>
-
 <p align="center">
   <i>"Transformando lógica em soluções. Um código por vez."</i> 🧠
 </p>
