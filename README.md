@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaoofontenelle/joaoofontenelle/main/assets/wallpaper.jpeg" alt="Wallpaper" style="max-width:100%; border-radius:12px;" />
+  <img src="assets/wallpaper.jpeg" alt="Wallpaper" style="max-width:100%; border-radius:12px;" />
 </p>
 
 <h1 align="center">
