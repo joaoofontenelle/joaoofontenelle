@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=grayscale&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
+<img src="https://wakatime.com/share/@joaoofontenelle/your-username-activity.svg" alt="Gráfico de contribuições de João Fontenelle" style="border-radius:12px;" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/jooaofontenelle/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram de João Fontenelle" style="filter: grayscale(100%);" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram de João Fontenelle" />
   </a>
 </p>
 
