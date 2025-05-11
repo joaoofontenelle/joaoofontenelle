@@ -1,8 +1,12 @@
 <img src="assets/wallpaper.jpeg" style="max-width:100%; border-radius:12px;" />
 
-<h1 align="center" style="font-family:Verdana; font-weight:bold;">Prazer, meu nome é <span style="color:#00ADB5;">João Fontenelle</span>! 👋</h1>
+<h1 align="center" style="font-family:Verdana, sans-serif; font-weight:bold; color:#000000;">
+  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 👋
+</h1>
 
-<p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
+<p align="center">
+  <i style="color: #555;">Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i>
+</p>
 
 ---
 
@@ -22,18 +26,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=radical&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
+      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=graywhite&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=joaoofontenelle&theme=radical&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
+      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&theme=graywhite&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
     </td>
   </tr>
 </table>
 
-</div>
+<br>
 
-<div align="center" style="margin-top: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=radical&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=graywhite&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
+
 </div>
 
 ---
@@ -42,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=radical&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=graywhite&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
 
 </div>
 
@@ -59,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:00ADB5&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=100&section=footer"/>
 </p>
