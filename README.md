@@ -12,10 +12,10 @@
 
 ### 🚀 <strong>Sobre mim</strong>
 
-- 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>
-- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML5</kbd> & <kbd>CSS3</kbd>
-- 🎯 Objetivo: evoluir como desenvolvedor e conquistar projetos pessoais incríveis.
-- 🌐 Portfólio: <i>em construção...</i>
+- 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>  
+- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML5</kbd> & <kbd>CSS3</kbd>  
+- 🎯 Objetivo: evoluir como desenvolvedor e conquistar projetos pessoais incríveis.  
+- 🌐 Portfólio: <i>em construção...</i>  
 
 ---
 
@@ -26,27 +26,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=dark&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
+      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=transparent&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&theme=dark&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
+      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&theme=transparent&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=dark&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
-
-</div>
-
----
-
-### 📈 <strong>Gráfico de Contribuições</strong>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&theme=dark&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=transparent&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
 
 </div>
 
