@@ -1,7 +1,7 @@
 <img src="https://github.com/joaoofontenelle/joaoofontenelle/blob/main/assets/wallpaper.jpeg?raw=true" style="max-width:100%; border-radius:12px;" />
 
 <h1 align="center" style="font-family:Verdana, sans-serif; font-weight:bold; color:#000000;">
-  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 
+  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 👋
 </h1>
 
 <p align="center">
@@ -37,6 +37,16 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=dark&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
+
+</div>
+
+---
+
+### 📈 <strong>Gráfico de Contribuições</strong>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&bg_color=000000&color=666666&line=bbbbbb&point=ffffff&area=true&area_color=222222&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
 
 </div>
 
