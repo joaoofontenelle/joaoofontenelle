@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://wakatime.com/share/@joaoofontenelle/your-username-activity.svg" alt="Gráfico de contribuições de João Fontenelle" style="border-radius:12px;" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=joaoofontenelle&theme=react-dark&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
 
 </div>
 
