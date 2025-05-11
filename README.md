@@ -1,7 +1,9 @@
-<img src="https://github.com/joaoofontenelle/joaoofontenelle/blob/main/assets/wallpaper.jpeg?raw=true" style="max-width:100%; border-radius:12px;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaoofontenelle/joaoofontenelle/main/assets/wallpaper.jpeg" alt="Wallpaper" style="max-width:100%; border-radius:12px;" />
+</p>
 
-<h1 align="center" style="font-family:Verdana, sans-serif; font-weight:bold; color:#000000;">
-  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 
+<h1 align="center">
+  Prazer, meu nome é <span style="color:#bbbbbb;">João Fontenelle</span>!
 </h1>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ---
 
-### 🚀 <strong>Sobre mim</strong>
+### 🚀 Sobre mim
 
 - 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>
 - 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML5</kbd> & <kbd>CSS3</kbd>
@@ -19,44 +21,44 @@
 
 ---
 
-### 📊 <strong>Minhas Estatísticas no GitHub</strong>
+### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666&icon_color=ffffff" alt="Estatísticas do GitHub de João Fontenelle" />
+      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666&icon_color=ffffff" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&hide_border=true&border_radius=12&background=000000&ring=bbbbbb&fire=ffffff&currStreakLabel=666666&sideNums=666666&currStreakNum=ffffff&sideLabels=bbbbbb&dates=555555" alt="GitHub Streak de João Fontenelle" />
+      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&hide_border=true&border_radius=12&background=000000&ring=bbbbbb&fire=ffffff&currStreakLabel=666666&sideNums=666666&currStreakNum=ffffff&sideLabels=bbbbbb&dates=555555" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666" alt="Linguagens mais usadas por João Fontenelle" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666" />
 
 </div>
 
 ---
 
-### 📈 <strong>Gráfico de Contribuições</strong>
+### 📈 Gráfico de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&bg_color=000000&color=666666&line=bbbbbb&point=ffffff&area=true&area_color=222222&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições de João Fontenelle" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&bg_color=000000&color=666666&line=bbbbbb&point=ffffff&area=true&area_color=222222&hide_border=true&radius=12&locale=pt-br" />
 
 </div>
 
 ---
 
-### 🌐 <strong>Conecte-se comigo!</strong>
+### 🌐 Conecte-se comigo!
 
 <p align="center">
   <a href="https://www.instagram.com/jooaofontenelle/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram de João Fontenelle" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
 </p>
 
