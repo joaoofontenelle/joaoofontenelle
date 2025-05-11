@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 <strong>Me encontre nas redes</strong>
+### 🌐 <strong>Conecte-se comigo</strong>
 
 <p align="center">
   <a href="https://www.instagram.com/jooaofontenelle/" target="_blank" rel="noreferrer">
