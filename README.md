@@ -1,7 +1,7 @@
 <img src="https://github.com/joaoofontenelle/joaoofontenelle/blob/main/assets/wallpaper.jpeg?raw=true" style="max-width:100%; border-radius:12px;" />
 
 <h1 align="center" style="font-family:Verdana, sans-serif; font-weight:bold; color:#000000;">
-  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 👋
+  Prazer, meu nome é <span style="color:#333333;">João Fontenelle</span>! 
 </h1>
 
 <p align="center">
@@ -26,17 +26,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&theme=dark&locale=pt-br&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de João Fontenelle" />
+      <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666&icon_color=ffffff" alt="Estatísticas do GitHub de João Fontenelle" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&theme=dark&locale=pt_BR&hide_border=true&border_radius=12" alt="GitHub Streak de João Fontenelle" />
+      <img src="https://streak-stats.demolab.com?user=joaoofontenelle&hide_border=true&border_radius=12&background=000000&ring=bbbbbb&fire=ffffff&currStreakLabel=666666&sideNums=666666&currStreakNum=ffffff&sideLabels=bbbbbb&dates=555555" alt="GitHub Streak de João Fontenelle" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&theme=dark&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais usadas por João Fontenelle" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofontenelle&layout=compact&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666" alt="Linguagens mais usadas por João Fontenelle" />
 
 </div>
 
