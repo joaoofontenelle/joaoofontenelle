@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="assets/wallpaper.jpeg" alt="Wallpaper" width="100%" />
+  <img src="assets/" alt="Wallpaper" width="100%" />
 </p>
 
 <h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
