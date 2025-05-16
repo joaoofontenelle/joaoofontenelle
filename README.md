@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&width=350&lines=Prazer,+meu+nome+é+Jo%C3%A3o+Fontenelle"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&width=350&lines=Prazer,+meu+nome+é+Jo%C3%A3o+Fontenelle"
     alt="Typing Effect" />
 </p>
 
