@@ -2,9 +2,15 @@
   <img src="assets/berserk 1997.jpeg" alt="Wallpaper" width="100%" />
 </p>
 
-<h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
+<h1 align="center">
+  <code>Prazer, meu nome é João Fontenelle|</code>
+</h1>
 
 <p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=flat-square&color=000000&label=VISITAS&label_color=ffffff" alt="Profile Views" />
+</p>
 
 ---
 
