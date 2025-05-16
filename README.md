@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=for-the-badge&color=FFFFFF&label=Visualizações&label_color=000000" alt="Visualizações do perfil" />
+  <img src="assets/typing-joao.gif" alt="Typing Effect - João Fontenelle" />
 </p>
 
 <p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
