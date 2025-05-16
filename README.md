@@ -86,5 +86,9 @@
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=flat-square&color=ffffff&label=Visualizações" alt="Contador de visualizações do perfil" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 </p>
