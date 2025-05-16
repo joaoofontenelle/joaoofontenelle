@@ -2,9 +2,7 @@
   <img src="assets/berserk 1997.jpeg" alt="Wallpaper" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=280&lines=Prazer%2C+meu+nome+é+João+Fontenelle" alt="Typing SVG" />
-</p>
+<h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
 
 <p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
 
