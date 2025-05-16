@@ -2,9 +2,7 @@
   <img src="assets/berserk 1997.jpeg" alt="Wallpaper" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/typing-joao.gif" alt="Typing Effect - João Fontenelle" />
-</p>
+<h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
 
 <p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
 
