@@ -9,7 +9,7 @@
 <p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=flat-square&color=000000&label=VISITAS&label_color=ffffff" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Prazer%2C+meu+nome+é+João+Fontenelle!" alt="Typing SVG" />
 </p>
 
 ---
