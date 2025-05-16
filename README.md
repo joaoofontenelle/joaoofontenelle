@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&width=350&lines=Prazer,+meu+nome+é+Jo%C3%A3o+Fontenelle"
-    alt="Typing Effect" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=for-the-badge&color=FFFFFF&label=Visualizações&label_color=000000" alt="Visualizações do perfil" />
 </p>
 
 <p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
