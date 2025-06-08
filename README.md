@@ -74,7 +74,7 @@
 ### 🌐 Conecte-se comigo!
 
 <p align="center">
-  <a href="https://www.instagram.com/jooaofontenelle/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/joaoofontenelle/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </p>
