@@ -4,7 +4,7 @@
 
 <h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
 
-<p align="center"><i>Desenvolvedor motivado em resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
+<p align="center"><i>Desenvolvedor motivado a resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
 
 ---
 
