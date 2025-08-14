@@ -66,7 +66,7 @@
 ### ✨ Troféus GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaoofontenelle&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaoofontenelle&theme=onedark&no-frame=true&row=1&column=6&v=2" alt="GitHub Trophies"/>
 </p>
 
 ---
