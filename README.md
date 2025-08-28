@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim
 
 - 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>  
-- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd> e <kbd>SQL</kbd>
+- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd> e <kbd>SQL</kbd>
 - 🎯 Objetivo: evoluir como desenvolvedor e conquistar projetos pessoais incríveis  
 - 🌐 Portfólio: <i>em construção...</i>  
 
@@ -23,7 +23,7 @@
 - 💻 Python3 — Curso em Vídeo (Gustavo Guanabara) 
 - 🧠 Análise de dados, MachineLearning e Automação de Tarefas (Jornada Python) — Hashtag Programação  
 - 🌐 HTML5 & CSS3 — Curso em Vídeo (Gustavo Guanabara)   
-- 🛠️ JavaScript – Curso em Vídeo (Gustavo Guanabara) — *A seguir...*
+- 🛠️ JavaScript – Udemy: Curso Web Moderno Completo com JavaScript (Leonardo Moura Leitão) — *Em andamento...*
 
 ---
 
