@@ -19,7 +19,7 @@
 
 ### 📚 Certificações & Cursos
 
-- 🏅 Curso Técnico em <kbd>Desenvolvimento de Sistemas</kbd> — *Em andamento*
+- 🏅 Curso Técnico em <kbd>Desenvolvimento de Sistemas</kbd> — *Em andamento...*
 - 💻 Python3 — Curso em Vídeo (Gustavo Guanabara) 
 - 🧠 Análise de dados, MachineLearning e Automação de Tarefas (Jornada Python) — Hashtag Programação  
 - 🌐 HTML5 & CSS3 — Curso em Vídeo (Gustavo Guanabara)   
