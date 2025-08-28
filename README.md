@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre mim:
 
 - 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>  
 - 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd> e <kbd>SQL</kbd>
@@ -17,7 +17,7 @@
 
 ---
 
-### 📚 Certificações & Cursos
+### 📚 Certificações & cursos:
 
 - 🏅 Curso Técnico em <kbd>Desenvolvimento de Sistemas</kbd> — *Em andamento...*
 - 💻 Python3 — Curso em Vídeo (Gustavo Guanabara) 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tecnologias & ferramentas que eu utilizo
+### 🛠️ Tecnologias & ferramentas que eu utilizo:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
