@@ -2,32 +2,32 @@
   <img src="assets/berserk 1997.jpeg" alt="Wallpaper" width="100%" />
 </p>
 
-<h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
+<h1 align="center">Nice to meet you, I'm <strong>João Fontenelle</strong>!</h1>
 
-<p align="center"><i>Desenvolvedor motivado a resolver problemas com código, criar sites e aprender novas tecnologias.</i></p>
-
----
-
-### 🚀 Sobre mim:
-
-- 💻 Estudante de curso técnico em <kbd>Desenvolvimento de Sistemas</kbd>  
-- 🧠 Aprendendo: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd> e <kbd>SQL</kbd>
-- 🎯 Objetivo: evoluir como desenvolvedor e conquistar projetos pessoais incríveis  
-- 🌐 Portfólio: <i>em construção...</i>  
+<p align="center"><i>A motivated developer passionate about solving problems with code, building websites, and learning new technologies.</i></p>
 
 ---
 
-### 📚 Certificações & cursos:
+### 🚀 About me:
 
-- 🏅 Curso Técnico em <kbd>Desenvolvimento de Sistemas</kbd> — *Em andamento...*
+- 💻 Technical student in <kbd>Systems Development</kbd>  
+- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd> and <kbd>SQL</kbd>
+- 🎯 Goal: evolve as a developer and build amazing personal projects  
+- 🌐 Portfolio: <i>under construction...</i>  
+
+---
+
+### 📚 Certifications & Courses:
+
+- 🏅 Curso Técnico em <kbd>Desenvolvimento de Sistemas</kbd> — *In progress...*
 - 💻 Python3 — Curso em Vídeo (Gustavo Guanabara) 
 - 🧠 Análise de dados, MachineLearning e Automação de Tarefas (Jornada Python) — Hashtag Programação  
 - 🌐 HTML5 & CSS3 — Curso em Vídeo (Gustavo Guanabara)   
-- 🛠️ JavaScript – Udemy: Curso Web Moderno Completo com JavaScript (Leonardo Moura Leitão) — *Em andamento...*
+- 🛠️ JavaScript – Udemy: Curso Web Moderno Completo com JavaScript (Leonardo Moura Leitão) — *In progress...*
 
 ---
 
-### 🛠️ Tecnologias & ferramentas que eu utilizo:
+### 🛠️ Technologies & Tools I use:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaoofontenelle&show_icons=true&hide_border=true&border_radius=12&bg_color=000000&title_color=bbbbbb&text_color=666666&icon_color=ffffff" alt="GitHub Stats" />
@@ -65,15 +65,15 @@
 
 ---
 
-### 📈 Gráfico de Contribuições
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&bg_color=000000&color=666666&line=bbbbbb&point=ffffff&area=true&area_color=222222&hide_border=true&radius=12&locale=pt-br" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoofontenelle&bg_color=000000&color=666666&line=bbbbbb&point=ffffff&area=true&area_color=222222&hide_border=true&radius=12&locale=en" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### ✨ Troféus GitHub
+### ✨ GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaoofontenelle&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
@@ -81,7 +81,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo!
+### 🌐 Connect with me!
 
 <p align="center">
   <a href="https://www.instagram.com/joaoofontenelle/" target="_blank" rel="noreferrer">
@@ -91,12 +91,12 @@
 
 ---
 
-<p align="center"><i>"Transformando lógica em soluções. Um código por vez."</i> 🧠</p>
+<p align="center"><i>"Turning logic into solutions. One line of code at a time."</i> 🧠</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=for-the-badge&color=000000&label=Visualizações&label_color=FFFFFF" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=joaoofontenelle&style=for-the-badge&color=000000&label=Profile+Views&label_color=FFFFFF" alt="Profile Views" />
 </p>
 
 <p align="center">
