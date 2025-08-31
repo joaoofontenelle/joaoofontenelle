@@ -11,7 +11,7 @@
 ### 🚀 About me:
 
 - 💻 Technical student in <kbd>Systems Development</kbd>  
-- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd>, <kbd>Node.js</kbd> and <kbd>SQL</kbd>
+- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, and <kbd>JavaScript</kbd>
 - 🎯 Goal: evolve as a developer and build amazing personal projects  
 - 🌐 Portfolio: <i>under construction...</i>  
 
