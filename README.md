@@ -11,7 +11,7 @@
 ### 🚀 About me:
 
 - 💻 Technical student in <kbd>Systems Development</kbd>  
-- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd> and <kbd>SQL</kbd>
+- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd>, <kbd>Node.js</kbd> and <kbd>SQL</kbd>
 - 🎯 Goal: evolve as a developer and build amazing personal projects  
 - 🌐 Portfolio: <i>under construction...</i>  
 
@@ -38,8 +38,12 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <br><br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <br><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
