@@ -11,7 +11,7 @@
 ### 🚀 About me:
 
 - 💻 Technical student in <kbd>Systems Development</kbd>  
-- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd> and <kbd>JavaScript</kbd>
+- 🧠 Currently learning: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd>, <kbd>Node.js</kbd> and <kbd>SQL</kbd>
 - 🎯 Goal: evolve as a developer and build amazing personal projects  
 - 🌐 Portfolio: <i>under construction...</i>  
 
@@ -19,9 +19,9 @@
 
 ### 📚 Certifications & Courses:
 
-- 🏅 Curso Técnico em <kbd>Desenvolvimento de Sistemas</kbd> — *In progress...*
+- 🏅 Technical Course in <kbd>Systems Development</kbd> — *In progress...*
 - 💻 Python3 — Curso em Vídeo (Gustavo Guanabara) 
-- 🧠 Análise de dados, MachineLearning e Automação de Tarefas (Jornada Python) — Hashtag Programação  
+- 🧠 Data Analysis, Machine Learning and Task Automation (Jornada Python) — Hashtag Programação  
 - 🌐 HTML5 & CSS3 — Curso em Vídeo (Gustavo Guanabara)   
 - 🛠️ JavaScript – Udemy: Curso Web Moderno Completo com JavaScript (Leonardo Moura Leitão) — *In progress...*
 
