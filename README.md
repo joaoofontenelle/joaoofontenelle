@@ -19,7 +19,7 @@
 
 ### 📚 Certifications & Courses:
 
-- 🏅 Technical Course in <kbd>Systems Development</kbd> — *In progress...*
+- 🏅 Technical Course in <kbd>Software Development</kbd> — *In progress...*
 - 💻 Python3 — Curso em Vídeo (Gustavo Guanabara) 
 - 🧠 Data Analysis, Machine Learning and Task Automation (Jornada Python) — Hashtag Programação  
 - 🌐 HTML5 & CSS3 — Curso em Vídeo (Gustavo Guanabara)   
