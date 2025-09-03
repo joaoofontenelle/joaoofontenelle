@@ -17,6 +17,36 @@
 
 ---
 
+### 🌟 Featured Projects
+
+Here are some of the projects I’ve developed, including web pages and Python applications. Check them out!  
+
+#### 🌐 Web & Frontend Projects (HTML & CSS)
+- [📱 Android Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoAndroid/ProjetoAndroid.html)  
+- [📜 Cordel Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoCordel/ProjetoCordel.html)  
+- [🌍 Social Media Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoRedesSociais/ProjetoRS.html)  
+- [📲 Mobile First Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoMobileFirst/MobileFirst.html)  
+- [✈️ Travel Agency Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoAgencia/index.html)  
+- [🎮 GamerFest Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoGamerFest/gamerfest.html)  
+- [♻️ E-Waste Form](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoLixoEletrônico/formMVP.html)  
+- [🎓 Alura Plus Project](https://joaoofontenelle.github.io/ProjetosHTMLeCSS/ProjetoAlura/alura.html)  
+
+#### 🐍 Python Projects
+- [📊 Sales Analysis & E-commerce Scripts](https://github.com/joaoofontenelle/ProjetosPython)  
+- [🐞 Bug Management System](https://github.com/joaoofontenelle/ProjetosPython)  
+- [🛒 Store System & Inventory Management](https://github.com/joaoofontenelle/ProjetosPython)  
+- [👨‍💼 Employee Registration & Management](https://github.com/joaoofontenelle/ProjetosPython)  
+- [💻 IT Equipment Inventory](https://github.com/joaoofontenelle/ProjetosPython)  
+- [🔤 Word Analyzer](https://github.com/joaoofontenelle/ProjetosPython)  
+- [📈 Messaging Simulation – RabbitMQ, SQS, Kafka](https://github.com/joaoofontenelle/ProjetosPython)  
+
+#### 🐾 Capstone Project
+- [Pata Certa – Animal Adoption Platform](https://joaoofontenelle.github.io/TCCPataCerta/index.html)  
+
+> Each link leads to a live demo or GitHub repository where you can explore the project in detail.
+
+---
+
 ### 📚 Certifications & Courses:
 
 - 🏅 Technical Course in <kbd>Software Development</kbd> — *In progress...*
