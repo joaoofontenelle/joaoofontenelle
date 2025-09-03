@@ -37,7 +37,7 @@ Here are some of the projects I’ve developed, including web pages and Python a
 - [👨‍💼 Employee Registration & Management](https://github.com/joaoofontenelle/ProjetosPython)  
 - [💻 IT Equipment Inventory](https://github.com/joaoofontenelle/ProjetosPython)  
 - [🔤 Word Analyzer](https://github.com/joaoofontenelle/ProjetosPython)  
-- [📈 Messaging Simulation – RabbitMQ, SQS, Kafka](https://github.com/joaoofontenelle/ProjetosPython)  
+- [📈 Messaging Simulation](https://github.com/joaoofontenelle/ProjetosPython)  
 
 #### 🐾 Capstone Project
 - [Pata Certa – Animal Adoption Platform](https://github.com/joaoofontenelle/TCCPataCerta)  
