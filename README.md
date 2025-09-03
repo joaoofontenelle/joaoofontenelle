@@ -46,7 +46,10 @@ Here are some of the projects I've developed, including web pages and Python app
 - 💻 Python3 — Curso em Vídeo ([Gustavo Guanabara](https://github.com/gustavoguanabara)) 
 - 🧠 Data Analysis, Machine Learning and Task Automation (Jornada Python) — Hashtag Programação  
 - 🌐 HTML5 & CSS3 — Curso em Vídeo ([Gustavo Guanabara](https://github.com/gustavoguanabara))   
-- 🛠️ JavaScript – Udemy: Curso Web Moderno Completo com JavaScript (Leonardo Moura Leitão) — *In progress...*
+- 🛠️ JavaScript – Udemy: Curso Web Moderno Completo com JavaScript ([Leonardo Moura Leitão](https://github.com/leonardomleitao)) — *In progress...*
+
+
+
 
 ---
 
