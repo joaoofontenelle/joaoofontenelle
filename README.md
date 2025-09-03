@@ -4,7 +4,7 @@
 
 <h1 align="center">Nice to meet you, I'm <strong>João Fontenelle</strong>!</h1>
 
-<p align="center"><i>A motivated developer passionate about solving problems with code, building websites, and learning new technologies.</i></p>
+<p align="center"><i>A motivated developer learning new technologies.</i></p>
 
 ---
 
