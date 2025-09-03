@@ -2,11 +2,7 @@
   <img src="assets/1000208590.gif" alt="Wallpaper" width="100%" />
 </p>
 
-
-
 <h1 align="center">Nice to meet you, I'm <strong>João Fontenelle</strong>!</h1>
-
-
 
 ---
 
