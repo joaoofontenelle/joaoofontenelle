@@ -40,7 +40,7 @@ Here are some of the projects I’ve developed, including web pages and Python a
 - [📈 Messaging Simulation – RabbitMQ, SQS, Kafka](https://github.com/joaoofontenelle/ProjetosPython)  
 
 #### 🐾 Capstone Project
-- [Pata Certa – Animal Adoption Platform](https://joaoofontenelle.github.io/TCCPataCerta/index.html)  
+- [Pata Certa – Animal Adoption Platform](https://joaoofontenelle.github.io/TCCPataCerta)  
 
 > Each link leads to a live demo or GitHub repository where you can explore the project in detail.
 
