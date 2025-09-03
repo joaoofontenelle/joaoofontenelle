@@ -22,25 +22,25 @@
 Here are some of the projects I’ve developed, including web pages and Python applications. Check them out!  
 
 #### 🌐 Web & Frontend Projects (HTML & CSS)
-- [📱 Android Project](https://joaoofontenelle.github.io/Projetos/ProjetoAndroid/ProjetoAndroid.html)  
-- [📜 Cordel Project](https://joaoofontenelle.github.io/Projetos/ProjetoCordel/ProjetoCordel.html)  
-- [📲 Mobile First Project](https://joaoofontenelle.github.io/Projetos/ProjetoMobileFirst/MobileFirst.html)  
-- [✈️ Travel Agency Project](https://joaoofontenelle.github.io/Projetos/ProjetoAgencia/index.html)  
-- [🎮 GamerFest Project](https://joaoofontenelle.github.io/Projetos/ProjetoGamerFest/gamerfest.html)  
-- [♻️ E-Waste Form](https://joaoofontenelle.github.io/Projetos/ProjetoLixoEletrônico/formMVP.html)  
-- [🎓 Alura Plus Project](https://joaoofontenelle.github.io/Projetos/ProjetoAlura/alura.html)  
+- [📱 Android Project](https://joaoofontenelle.github.io/Projects/ProjetoAndroid/ProjetoAndroid.html)  
+- [📜 Cordel Project](https://joaoofontenelle.github.io/Projects/ProjetoCordel/ProjetoCordel.html)  
+- [📲 Mobile First Project](https://joaoofontenelle.github.io/Projects/ProjetoMobileFirst/MobileFirst.html)  
+- [✈️ Travel Agency Project](https://joaoofontenelle.github.io/Projects/ProjetoAgencia/index.html)  
+- [🎮 GamerFest Project](https://joaoofontenelle.github.io/Projects/ProjetoGamerFest/gamerfest.html)  
+- [♻️ E-Waste Form](https://joaoofontenelle.github.io/Projects/ProjetoLixoEletrônico/formMVP.html)  
+- [🎓 Alura Plus Project](https://joaoofontenelle.github.io/Projects/ProjetoAlura/alura.html)  
 
 #### 🐍 Python Projects
-- [📊 Sales Analysis & E-commerce Scripts](https://github.com/joaoofontenelle/ProjetosPython)  
-- [🐞 Bug Management System](https://github.com/joaoofontenelle/ProjetosPython)  
-- [🛒 Store System & Inventory Management](https://github.com/joaoofontenelle/ProjetosPython)  
-- [👨‍💼 Employee Registration & Management](https://github.com/joaoofontenelle/ProjetosPython)  
-- [💻 IT Equipment Inventory](https://github.com/joaoofontenelle/ProjetosPython)  
-- [🔤 Word Analyzer](https://github.com/joaoofontenelle/ProjetosPython)  
-- [📈 Messaging Simulation](https://github.com/joaoofontenelle/ProjetosPython)  
+- [📊 Sales Analysis & E-commerce Scripts](https://github.com/joaoofontenelle/PythonProjects)  
+- [🐞 Bug Management System](https://github.com/joaoofontenelle/PythonProjects)  
+- [🛒 Store System & Inventory Management](https://github.com/joaoofontenelle/PythonProjects)  
+- [👨‍💼 Employee Registration & Management](https://github.com/joaoofontenelle/PythonProjects)  
+- [💻 IT Equipment Inventory](https://github.com/joaoofontenelle/PythonProjects)  
+- [🔤 Word Analyzer](https://github.com/joaoofontenelle/PythonProjects)  
+- [📈 Messaging Simulation](https://github.com/joaoofontenelle/PythonProjects)  
 
 #### 🐾 Capstone Project
-- [Pata Certa – Animal Adoption Platform](https://github.com/joaoofontenelle/TCCPataCerta)  
+- [Pata Certa – Animal Adoption Platform](https://github.com/joaoofontenelle/PataCerta)  
 
 ---
 
