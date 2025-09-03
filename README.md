@@ -24,7 +24,6 @@ Here are some of the projects I’ve developed, including web pages and Python a
 #### 🌐 Web & Frontend Projects (HTML & CSS)
 - [📱 Android Project](https://joaoofontenelle.github.io/Projetos/ProjetoAndroid/ProjetoAndroid.html)  
 - [📜 Cordel Project](https://joaoofontenelle.github.io/Projetos/ProjetoCordel/ProjetoCordel.html)  
-- [🌍 Social Media Project](https://joaoofontenelle.github.io/Projetos/ProjetoRedesSociais/ProjetoRS.html)  
 - [📲 Mobile First Project](https://joaoofontenelle.github.io/Projetos/ProjetoMobileFirst/MobileFirst.html)  
 - [✈️ Travel Agency Project](https://joaoofontenelle.github.io/Projetos/ProjetoAgencia/index.html)  
 - [🎮 GamerFest Project](https://joaoofontenelle.github.io/Projetos/ProjetoGamerFest/gamerfest.html)  
