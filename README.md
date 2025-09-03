@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="assets/berserk 1997.jpeg" alt="Wallpaper" width="100%" />
+  <img src="assets/1000208590.gif" alt="Wallpaper" width="100%" />
 </p>
 
 <h1 align="center">Nice to meet you, I'm <strong>João Fontenelle</strong>!</h1>
