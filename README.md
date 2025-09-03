@@ -42,8 +42,6 @@ Here are some of the projects I’ve developed, including web pages and Python a
 #### 🐾 Capstone Project
 - [Pata Certa – Animal Adoption Platform](https://github.com/joaoofontenelle/TCCPataCerta)  
 
-> Each link leads to a live demo or GitHub repository where you can explore the project in detail.
-
 ---
 
 ### 📚 Certifications & Courses:
