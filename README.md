@@ -4,7 +4,6 @@
 
 <h1 align="center">Nice to meet you, I'm <strong>João Fontenelle</strong>!</h1>
 
-
 ### 🚀 About me:
 
 - 💻 Technical student in <kbd>Systems Development</kbd>  
