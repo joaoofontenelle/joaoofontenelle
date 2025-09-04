@@ -36,7 +36,7 @@ Here are some of the projects I've developed, including web pages and Python app
 - [📈 Messaging Simulation](https://github.com/joaoofontenelle/PythonProjects)  
 
 #### 🐾 Capstone Project
-- [Pata Certa – Animal Adoption Platform](https://github.com/joaoofontenelle/PataCerta)  
+- [Pata Certa – Pet Adoption Platform](https://github.com/joaoofontenelle/PataCerta)  
 
 ---
 
