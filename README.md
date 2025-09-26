@@ -27,7 +27,7 @@ Here are some of the projects I've developed, including web pages and Python app
 - [🎓 Alura Plus Project](https://joaoofontenelle.github.io/Projects/ProjetoAlura/alura.html)  
 
 #### 🐍 Python Projects
-- [🛒 Store System & Inventory Management](https://github.com/joaoofontenelle/PythonProjects)  
+- [🏪 Store System & Inventory Management](https://github.com/joaoofontenelle/PythonProjects)  
 - [👨‍💼 Employee Registration & Management](https://github.com/joaoofontenelle/PythonProjects)  
 - [🎬 Streaming Clients and Plans Management](https://github.com/joaoofontenelle/PythonProjects)
 
