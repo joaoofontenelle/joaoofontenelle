@@ -29,7 +29,7 @@ Here are some of the projects I've developed, including web pages and Python app
 #### 🐍 Python Projects
 - [🛒 Store System & Inventory Management](https://github.com/joaoofontenelle/PythonProjects)  
 - [👨‍💼 Employee Registration & Management](https://github.com/joaoofontenelle/PythonProjects)  
-
+- [🎬 Streaming Clients and Plans Management](https://github.com/joaoofontenelle/PythonProjects
 
 #### 🐾 Capstone Project
 - [Pata Certa – Pet Adoption Platform](https://github.com/joaoofontenelle/PataCerta)  
