@@ -15,7 +15,7 @@
 
 ### 🌟 Projetos em Destaque
 
-Aqui estão alguns dos projetos que desenvolvi, incluindo páginas web e aplicações em Python. Confira!  
+Aqui estão alguns dos projetos que desenvolvi, incluindo páginas web e aplicações em Python:
 
 #### 🌐 Projetos Web & Frontend (HTML & CSS)
 - [📱 Projeto Android](https://joaoofontenelle.github.io/Projects/ProjetoAndroid/ProjetoAndroid.html)  
