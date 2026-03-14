@@ -96,14 +96,6 @@ Aqui estão alguns dos projetos que desenvolvi, incluindo páginas web e aplica�
 
 ---
 
-### ✨ Conquistas (Trophies)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaoofontenelle&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 🌐 Conecte-se comigo!
 
 <p align="center">
