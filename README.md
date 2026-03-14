@@ -8,7 +8,7 @@
 
 - 💻 Formado em técnico de <kbd>Desenvolvimento de Sistemas</kbd>  
 - 🧠 Atualmente aprendendo: <kbd>Python</kbd>, <kbd>HTML</kbd>, <kbd>CSS</kbd> e <kbd>JavaScript</kbd>
-- 🎯 Objetivo: evoluir como desenvolvedor e construir projetos pessoais incríveis  
+- 🎯 Objetivo: evoluir como desenvolvedor e construir projetos pessoais
 - 🌐 Portfólio: <i>em construção...</i>  
 
 ---
