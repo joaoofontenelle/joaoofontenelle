@@ -2,7 +2,7 @@
   <img src="assets/1000208590.gif" alt="Wallpaper" width="100%" />
 </p>
 
-<h1 align="center">Prazer em conhecer, eu sou o <strong>João Fontenelle</strong>!</h1>
+<h1 align="center">Prazer, meu nome é <strong>João Fontenelle</strong>!</h1>
 
 ### 🚀 Sobre mim:
 
